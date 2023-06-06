@@ -50,11 +50,12 @@
   Estou sempre à disposição para ajudar aqueles que precisam, para que possamos entregar o melhor. 
   Me dedico em tudo que faço, seja de forma individual ou em colaboração com a equipe.
   Enfim esse sou eu...
-
+![snake gif](https://github.com/WesleyCouti/WesleyCouti/blob/output/github-contribution-grid-snake.svg)
+  
 ## Contatos e redes sociais:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-coutinho-422109136/)
 [![WhatApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://contate.me/wesleycoutinho)
   
   
-![snake gif](https://github.com/WesleyCouti/WesleyCouti/blob/output/github-contribution-grid-snake.svg)
+
